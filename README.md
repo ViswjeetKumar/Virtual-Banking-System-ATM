@@ -24,8 +24,8 @@ A Java-based ATM simulation with cardless transactions using card number and pas
 3. Follow prompts to complete transactions.
 
 ## Screenshots
-![Login](docs/screenshots/login.png)
-![Bank](docs/screenshots/bank.png)
+![Login](docs/screenshots/UI-1.png)
+![Bank](docs/screenshots/UI-2.png)
 
 ## Project Structure
 - `src/`: Java files (e.g., `main.java`)
