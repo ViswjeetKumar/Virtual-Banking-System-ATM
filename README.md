@@ -23,9 +23,8 @@ A Java-based ATM simulation with cardless transactions using card number and pas
 2. Choose an option (1: Balance, 2: Withdraw, 3: Deposit, 4: Transfer, 5: Exit).
 3. Follow prompts to complete transactions.
 
-## Screenshots
+## Screenshot
 ![UI](docs/screenshots/UI-1.png)
-![UI](docs/screenshots/UI - 7.png)
 
 ## Project Structure
 - `src/`: Java files (e.g., `main.java`)
